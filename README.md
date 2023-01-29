@@ -12,3 +12,4 @@ All found issues are displayed in the “Findings” section.
 Summary
 According to the assessment, the Customer's smart contract has the
 following score: 7.6.
+![1674978306872](https://user-images.githubusercontent.com/57596004/215312640-8f18d975-8521-4cde-b7e9-71c95d150e62.png)
